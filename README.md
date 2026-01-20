@@ -1,1 +1,3 @@
 # E-Commerce-UI-UX-Design
+
+This project presents a mobile-based eCommerce UI/UX design created in Figma, featuring 10 thoughtfully designed screens that deliver a seamless and user-friendly shopping experience. The design includes a clean home screen, intuitive search and filter functionality, detailed product view pages, and a smooth add-to-cart and checkout flow. Users can easily manage their profiles and settings, view order history, and track past purchases. The interface emphasizes clear navigation, visual consistency, and usability, ensuring an efficient and engaging shopping journey from product discovery to order completion.
